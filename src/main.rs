@@ -2,8 +2,9 @@
 // STEPS:
 // 1. parse args for options (research and implement clap external lib/crate)
 // 2. read file (use std::fs) 
-// 3. extract from file per options
-// 4. display results
+// 3. use STL for random number generation? (comparable entropy to c++ stl?)
+// 4. extract from file per options
+// 5. display results
 
 extern crate clap;
 //use clap::{Arg, App, SubCommand};
